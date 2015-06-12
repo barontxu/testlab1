@@ -6,7 +6,6 @@
  * the terminating '\0' character.
  * @s:        the input string
  *
- * The strlen() function returns the length of string @s.
  * */
 size_t
 strlen(const char *s) {
