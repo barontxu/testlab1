@@ -7,8 +7,7 @@
 #define E_INVAL                3    // Invalid parameter
 #define E_NO_MEM            4    // Request failed due to memory shortage
 #define E_NO_FREE_PROC        5    // Attempt to create a new process beyond
-#define E_FAULT                6    // Memory fault
-
+#define E_FAULT                6    
 /* the maximum allowed */
 #define MAXERROR            6
 
